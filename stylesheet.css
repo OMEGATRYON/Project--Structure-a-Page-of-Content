@@ -125,3 +125,15 @@ aside img {
 footer {
     margin-top: 10px;
 }
+
+.row1 {
+    display:flex;
+}
+
+.row2 {
+    display:flex;
+}
+
+div img {
+    width: 150px;
+}
